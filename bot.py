@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # توکن تلگرام
-TELEGRAM_TOKEN = '7807825480:AAFFA5IFMDKiOgAGRYPg5W_RPM1lkEiqWIM'
+TELEGRAM_TOKEN = '7984845167:AAGBD1cPGcx-IXUQ1Py5O1_R7Cy6o-7JEDc'
 
 def clean_price(price_text):
     """حذف کاراکترهای اضافی از قیمت"""
