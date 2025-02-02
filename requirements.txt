@@ -1,1 +1,4 @@
-pip install python-telegram-bot requests beautifulsoup4 jdatetime
+python-telegram-bot
+requests
+beautifulsoup4
+jdatetime
